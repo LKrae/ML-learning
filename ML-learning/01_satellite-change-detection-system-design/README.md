@@ -1,4 +1,4 @@
-# Week 01 — ML System Design Fundamentals  
+# 01 — ML System Design Fundamentals  
 ### Satellite Imagery Change Detection System (GEOINT)
 
 This week focuses on developing a complete, senior‑level ML system design for a **Satellite Imagery Change Detection System**, aligned with GEOINT workflows and real‑world remote sensing constraints. The goal is to demonstrate end‑to‑end thinking across business framing, data engineering, modeling, deployment, monitoring, and lifecycle management.
