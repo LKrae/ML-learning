@@ -25,4 +25,3 @@ Infrastructure‑as‑code, CI/CD, model deployment, monitoring, and drift detec
 
 ### 7. Capstone: End‑to‑End ML System
 A fully integrated ML system combining ingestion, training, deployment, monitoring, and evaluation.
-
